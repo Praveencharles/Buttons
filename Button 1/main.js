@@ -12,4 +12,5 @@
                 spinIcon.classList.replace("fa-circle-notch", "fa-check");
                 btnText.textContent = "Done";
             }, 4500) //1s = 1000ms
+
             });
