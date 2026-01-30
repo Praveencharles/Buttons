@@ -1,4 +1,4 @@
-            let btn = document.querySelector(".button"),
+             let btn = document.querySelector(".button"),
                 spinIcon = document.querySelector(".spinner"),
                 btnText = document.querySelector(".btn-text");
             btn.addEventListener("click", () => {
